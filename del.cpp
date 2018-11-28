@@ -37,4 +37,5 @@ void DeleteEdge(int chart[][100])
 	cout << "É¾³ý³É¹¦" << endl;
 	chart[st][end] = 100;
 	chart[end][st] = chart[st][end];
+	cout << endl;
 }
