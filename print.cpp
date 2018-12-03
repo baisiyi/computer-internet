@@ -46,4 +46,5 @@ void PrintRoute(int chart[][100], int length)
 		cout << i + 1 << "            " << list[i] + 1 << "  " << endl;
 		++i;
 	}
+	cout << "" << endl;;
 }
