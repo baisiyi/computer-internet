@@ -65,6 +65,8 @@ int main() {
 		cout << endl << "输入数字：";
 	}
 	cout << "感谢使用1" << endl;
+	cout << endl;
 	system("pause");
+
 	return 0;
 }
